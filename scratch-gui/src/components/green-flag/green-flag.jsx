@@ -16,7 +16,9 @@ const GreenFlagComponent = function (props) {
 // this is where when you click the hat block in events "When clicked" 
 // just console.dir(onClick)
 */
-    localStorage.setItem("isItem", "true");
+    // useing localstorage 
+    //  localStorage.setItem("isItem", "true");
+
 
     return (
         <img
